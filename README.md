@@ -26,4 +26,7 @@ This hardware platform enables the simultaneous acquisition of **SCG** and **ECG
 - Expandable sensor interface
 - Suitable for cardiac signal research and prototyping
 
-## Repository Structure
+**Doğukan Sahil**  
+Email: **dogukansahil@gmail.com**  
+GitHub: **https://github.com/dogukansahil**  
+Twitter: **https://twitter.com/dogukansahil**

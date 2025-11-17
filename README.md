@@ -28,5 +28,4 @@ This hardware platform enables the simultaneous acquisition of **SCG** and **ECG
 
 **Doğukan Sahil**  
 Email: **dogukansahil@gmail.com**  
-GitHub: **https://github.com/dogukansahil**  
-Twitter: **https://twitter.com/dogukansahil**
+X: **https://x.com/dogukansahil**
